@@ -46,8 +46,5 @@ After pass 1 we have 2 PAUs. PAU 1a consists of a paragraph of length 100 and ta
 Pass 2 determines than no more divisions are needed.
 Note that if paragraph 3 had been any smaller no slices would have been made.
 
-##Experimental
-This project is evolving very quickly. I am limited by the styles of xml files which are available to me. If you find any for which this program does not work please send them to the email below.
-
 ##Maintainer
 Andrew Ayres, afayres@us.ibm.com
